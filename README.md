@@ -2,7 +2,10 @@
 
 Welcome to OrnVerse Technologies
 
-As a part of hiring process you need to complete this project as an assigment with following deliverables by 8th December 2023 12 PM
+As a part of hiring process you need to complete this project as an assigment with following deliverables
+
+### Deadline 
+8th December 2023 12.00 PM
 
 ##Make sure your system meets following requirements before you start
 1. Visual Studio community 2022
