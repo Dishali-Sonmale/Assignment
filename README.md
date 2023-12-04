@@ -20,15 +20,18 @@ As a part of hiring process you need to complete this project as an assigment wi
 
 
 ##Deliverables
-### 1. Create Employee Table with following fields
+#### 1. Create Employee Table with following fields
 EmployeeId, EmployeeName, EmployeeCode, DOB, Address, PhoneNumber, MobileNumber, Email , JoiningDate, TerminationDate, IsDisabled
 
-### 2. Create EmployeeDetails Table with following fields
+#### 2. Create EmployeeDetails Table with following fields
 EmployeeDetailId, EmployeeId, Qualification, Year, Univercity, CGPA
 
-##Follow below mentioned guide to Create Master Detail connection between this two tables and to create UI and other components 
+#### 3. Follow below mentioned guide to Create Master Detail connection between this two tables and to create UI and other components 
 https://serenity.is/docs/tutorials/movies/01-creating-movie-table
 
-For any questions you can reach out us at assignment@ornaverse.com
+#### 4. Complete UI and Save one Employee record with all relevant values. 
 
-####Once completed share link of the repository to assignment@ornaverse.com
+
+### Once completed share link of the repository to assignment@ornaverse.com
+
+For any questions you can reach out us at assignment@ornaverse.com
