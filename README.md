@@ -31,7 +31,7 @@ https://serenity.is/docs/tutorials/movies/01-creating-movie-table
 
 #### 4. Complete UI and Save one Employee record with all relevant values. 
 
-#### 5. Commit all chnages to your repository
+#### 5. Commit all changes to your repository
 
 ### Once completed share link of the repository to assignment@ornaverse.com
 
