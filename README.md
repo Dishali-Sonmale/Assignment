@@ -10,7 +10,7 @@ As a part of hiring process you need to complete this project as an assigment wi
 3. Sql server local db
 
 ##Steps to configure
-1. Fork this repository to your Github Account
+1. Clone this repository to your Github Account
 3. Make sure repository is public
 2. Clone to local syatem
 3. Open solution in Visual Studio
@@ -31,6 +31,7 @@ https://serenity.is/docs/tutorials/movies/01-creating-movie-table
 
 #### 4. Complete UI and Save one Employee record with all relevant values. 
 
+#### 5. Commit all chnages to your repository
 
 ### Once completed share link of the repository to assignment@ornaverse.com
 
