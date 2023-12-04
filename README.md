@@ -11,10 +11,10 @@ As a part of hiring process you need to complete this project as an assigment wi
 
 ##Steps to configure
 1. Fork this repository to your Github Account
-3. make sure repository is public
-2. clone to local syatem
-3. open solution in Visual Studio
-4. open package manager console and navigate to ```cd .\Coding_Test_Project.Web```
+3. Make sure repository is public
+2. Clone to local syatem
+3. Open solution in Visual Studio
+4. Open package manager console and navigate to ```cd .\Coding_Test_Project.Web```
 5. Run ```dotnet tool install --global sergen --version 6.9.6```
 6. Run project to validate everything is working
 
