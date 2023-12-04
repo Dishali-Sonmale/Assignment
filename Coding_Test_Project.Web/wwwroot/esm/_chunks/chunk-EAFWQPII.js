@@ -1,0 +1,2 @@
+import{e as n,h as i}from"./chunk-CFICWFWM.js";var e=n(i(),1),s;(t=>{let o;(r=>t.Texts=(0,e.proxyTexts)(r,"",{Db:{Administration:{Language:{},Role:{},RolePermission:{},Translation:{},User:{},UserPermission:{},UserRole:{}}},Forms:{Membership:{Login:{},SendActivation:{},SignUp:{}}},Navigation:{},Site:{AccessDenied:{},Layout:{},RolePermissionDialog:{},UserDialog:{},UserPermissionDialog:{},ValidationError:{}},Validation:{}}))(o=t.Texts||(t.Texts={}))})(s||(s={}));var a=s.Texts;export{a};
+//# sourceMappingURL=chunk-EAFWQPII.js.map
