@@ -29,6 +29,6 @@ EmployeeDetailId, EmployeeId, Qualification, Year, Univercity, CGPA
 ##Follow below mentioned guide to Create Master Detail connection between this two tables and to create UI and other components 
 https://serenity.is/docs/tutorials/movies/01-creating-movie-table
 
-For any questions you can reach out us at assigment@ornaverse.com
+For any questions you can reach out us at assignment@ornaverse.com
 
-####Once completed share link of the repository to assigment@ornaverse.com
+####Once completed share link of the repository to assignment@ornaverse.com
